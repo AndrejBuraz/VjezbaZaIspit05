@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\PripremaZaIspit\bin\Debug\PripremaZaIspit.exe.config
+C:\Users\ucenik\Documents\PripremaZaIspit\bin\Debug\PripremaZaIspit.exe
+C:\Users\ucenik\Documents\PripremaZaIspit\bin\Debug\PripremaZaIspit.pdb
+C:\Users\ucenik\Documents\PripremaZaIspit\obj\Debug\PripremaZaIspit.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\PripremaZaIspit\obj\Debug\PripremaZaIspit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\PripremaZaIspit\obj\Debug\PripremaZaIspit.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\PripremaZaIspit\obj\Debug\PripremaZaIspit.exe
+C:\Users\ucenik\Documents\PripremaZaIspit\obj\Debug\PripremaZaIspit.pdb
